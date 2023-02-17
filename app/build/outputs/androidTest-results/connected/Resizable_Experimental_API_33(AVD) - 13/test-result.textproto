@@ -1,0 +1,172 @@
+# 2023-01-24T10:08:01.135Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 3
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "MenuContentTests"
+    test_package: "com.example.lunchtray"
+    test_method: "side_menu_item_content"
+    start_time {
+      seconds: 1674554875
+      nanos: 883000000
+    }
+    end_time {
+      seconds: 1674554877
+      nanos: 142000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\nick9\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Resizable_Experimental_API_33(AVD) - 13\\logcat-com.example.lunchtray.MenuContentTests-side_menu_item_content.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\nick9\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Resizable_Experimental_API_33(AVD) - 13\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\nick9\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Resizable_Experimental_API_33(AVD) - 13\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\nick9\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Resizable_Experimental_API_33(AVD) - 13\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MenuContentTests"
+    test_package: "com.example.lunchtray"
+    test_method: "entree_menu_item_content"
+    start_time {
+      seconds: 1674554877
+      nanos: 914000000
+    }
+    end_time {
+      seconds: 1674554878
+      nanos: 691000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\nick9\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Resizable_Experimental_API_33(AVD) - 13\\logcat-com.example.lunchtray.MenuContentTests-entree_menu_item_content.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\nick9\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Resizable_Experimental_API_33(AVD) - 13\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\nick9\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Resizable_Experimental_API_33(AVD) - 13\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\nick9\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Resizable_Experimental_API_33(AVD) - 13\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MenuContentTests"
+    test_package: "com.example.lunchtray"
+    test_method: "accompaniment_menu_item_content"
+    start_time {
+      seconds: 1674554879
+      nanos: 376000000
+    }
+    end_time {
+      seconds: 1674554880
+      nanos: 7000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\nick9\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Resizable_Experimental_API_33(AVD) - 13\\logcat-com.example.lunchtray.MenuContentTests-accompaniment_menu_item_content.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\nick9\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Resizable_Experimental_API_33(AVD) - 13\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\nick9\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Resizable_Experimental_API_33(AVD) - 13\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\nick9\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Resizable_Experimental_API_33(AVD) - 13\\cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "C:\\Users\\nick9\\AndroidStudioProjects\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\outputs\\androidTest-results\\connected\\Resizable_Experimental_API_33(AVD) - 13\\testlog\\test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

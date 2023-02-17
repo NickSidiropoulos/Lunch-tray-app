@@ -1,0 +1,48 @@
+
+Ô
+\
+MenuContentTestscom.example.lunchtrayside_menu_item_content2˚€æû¿ÖÜ•:˝€æûÄˇ⁄C"à
+
+logcatandroidÚ
+ÔC:\Users\nick9\AndroidStudioProjects\android-basics-kotlin-lunch-tray-app-main\app\build\outputs\androidTest-results\connected\Resizable_Experimental_API_33(AVD) - 13\logcat-com.example.lunchtray.MenuContentTests-side_menu_item_content.txt"”
+
+device-infoandroid∏
+µC:\Users\nick9\AndroidStudioProjects\android-basics-kotlin-lunch-tray-app-main\app\build\outputs\androidTest-results\connected\Resizable_Experimental_API_33(AVD) - 13\device-info.pb"‘
+
+device-info.meminfoandroid±
+ÆC:\Users\nick9\AndroidStudioProjects\android-basics-kotlin-lunch-tray-app-main\app\build\outputs\androidTest-results\connected\Resizable_Experimental_API_33(AVD) - 13\meminfo"‘
+
+device-info.cpuinfoandroid±
+ÆC:\Users\nick9\AndroidStudioProjects\android-basics-kotlin-lunch-tray-app-main\app\build\outputs\androidTest-results\connected\Resizable_Experimental_API_33(AVD) - 13\cpuinfoÙ
+_
+MenuContentTestscom.example.lunchtrayentree_menu_item_content2˝€æûÄëÍ≥:˛€æû¿•ø…"ä
+
+logcatandroidÙ
+ÒC:\Users\nick9\AndroidStudioProjects\android-basics-kotlin-lunch-tray-app-main\app\build\outputs\androidTest-results\connected\Resizable_Experimental_API_33(AVD) - 13\logcat-com.example.lunchtray.MenuContentTests-entree_menu_item_content.txt"”
+
+device-infoandroid∏
+µC:\Users\nick9\AndroidStudioProjects\android-basics-kotlin-lunch-tray-app-main\app\build\outputs\androidTest-results\connected\Resizable_Experimental_API_33(AVD) - 13\device-info.pb"‘
+
+device-info.meminfoandroid±
+ÆC:\Users\nick9\AndroidStudioProjects\android-basics-kotlin-lunch-tray-app-main\app\build\outputs\androidTest-results\connected\Resizable_Experimental_API_33(AVD) - 13\meminfo"‘
+
+device-info.cpuinfoandroid±
+ÆC:\Users\nick9\AndroidStudioProjects\android-basics-kotlin-lunch-tray-app-main\app\build\outputs\androidTest-results\connected\Resizable_Experimental_API_33(AVD) - 13\cpuinfoÅ
+e
+MenuContentTestscom.example.lunchtrayaccompaniment_menu_item_content2ˇ€æûÄú•≥:Ä‹æû¿ü´"ë
+
+logcatandroid˚
+¯C:\Users\nick9\AndroidStudioProjects\android-basics-kotlin-lunch-tray-app-main\app\build\outputs\androidTest-results\connected\Resizable_Experimental_API_33(AVD) - 13\logcat-com.example.lunchtray.MenuContentTests-accompaniment_menu_item_content.txt"”
+
+device-infoandroid∏
+µC:\Users\nick9\AndroidStudioProjects\android-basics-kotlin-lunch-tray-app-main\app\build\outputs\androidTest-results\connected\Resizable_Experimental_API_33(AVD) - 13\device-info.pb"‘
+
+device-info.meminfoandroid±
+ÆC:\Users\nick9\AndroidStudioProjects\android-basics-kotlin-lunch-tray-app-main\app\build\outputs\androidTest-results\connected\Resizable_Experimental_API_33(AVD) - 13\meminfo"‘
+
+device-info.cpuinfoandroid±
+ÆC:\Users\nick9\AndroidStudioProjects\android-basics-kotlin-lunch-tray-app-main\app\build\outputs\androidTest-results\connected\Resizable_Experimental_API_33(AVD) - 13\cpuinfo*∏
+c
+test-results.logOcom.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver¬
+øC:\Users\nick9\AndroidStudioProjects\android-basics-kotlin-lunch-tray-app-main\app\build\outputs\androidTest-results\connected\Resizable_Experimental_API_33(AVD) - 13\testlog\test-results.log 2
+text/plain
